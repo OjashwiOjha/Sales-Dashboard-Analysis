@@ -23,6 +23,8 @@ This project analyzes sales data to extract business insights using SQL and Powe
 
 ## Dashboard Preview
 <img width="1376" height="779" alt="image" src="https://github.com/user-attachments/assets/eea2dd43-b601-4c5a-a2fb-f223d50c8e33" />
+<img width="1375" height="776" alt="image" src="https://github.com/user-attachments/assets/b52b4d42-6e19-4610-be0e-c0a4dfa24b44" />
+
 
 
 ## 📌 Conclusion
